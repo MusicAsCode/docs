@@ -9,7 +9,7 @@ Under Development:
 * we chat every day on music as code
 * request immediate slack invite at [Abletonists: Practitioners of Abletonism](https://abletonists.4bars.media/)
 * work in progress on [4bars CLI](https://github.com/styk-tv/4bars)
-* [Abletonists Group on LinkedIn] (https://www.linkedin.com/groups/8806829/)
+* [Abletonists Group on LinkedIn](https://www.linkedin.com/groups/8806829/)
 
 # Documentation
 * Roadmap (in 4 bars repo above)
