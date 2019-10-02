@@ -1,4 +1,4 @@
-# MusicAsCode - DevOps Worflows for Music Producers
+# MusicAsCode - DevOps Workflows for Music Producers
 
 Under Development:
 * New text-based music notation
